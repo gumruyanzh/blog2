@@ -1,0 +1,26 @@
+
+{
+    "blog2App": {
+        "entry" : {
+            "home": {
+                "title": "Entries",
+                "createLabel": "Ստեղծել նոր Entry",
+                "createOrEditLabel": "Ստեղծել կամ փոփոխել Entry"
+            },
+            "created": "Նոր Entry ստեղծված է {{ param }} նունացուցիչով",
+            "updated": "Entry թարմացվաց է {{ param }} նունացուցիչով",
+            "deleted": "Entry հեռացված է {{ param }}  նունացուցիչով",
+            "delete": {
+                "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Entry {{ id }}?"
+            },
+            "detail": {
+                "title": "Entry"
+            },
+            "title": "Title",
+            "content": "Content",
+            "date": "Date",
+            "blog": "Blog",
+            "tag": "Tag"
+        }
+    }
+}
